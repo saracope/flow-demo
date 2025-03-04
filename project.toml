@@ -1,0 +1,2 @@
+[com.heroku.build.labs]
+use_app_config_vars = true
