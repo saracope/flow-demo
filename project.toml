@@ -2,4 +2,4 @@
 id = "heroku/nodejs"
 
 [com.heroku.build.labs]
-use_app_config_vars = true
+build_config_vars = true
