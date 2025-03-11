@@ -1,0 +1,5 @@
+[[io.buildpacks.group]]
+id = "heroku/nodejs"
+
+[com.heroku.build.labs]
+build_config_vars = true
